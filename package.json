@@ -98,7 +98,7 @@
     "litegraph.js": "0.7.8",
     "mem": "4.1.0",
     "minimatch": "3.0.5",
-    "minimist": "1.2.7",
+    "minimist": "1.2.8",
     "monaco-editor": "0.18.x",
     "nanoid": "3.1.32",
     "node-pty": "0.10.1",
