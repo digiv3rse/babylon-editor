@@ -53,7 +53,7 @@
   },
   "dependencies": {
     "@babylonjs/core": "6.0.0",
-    "@babylonjs/gui": "6.0.0",
+    "@babylonjs/gui": "6.49.0",
     "@babylonjs/loaders": "6.0.0",
     "@babylonjs/materials": "6.0.0",
     "@babylonjs/post-processes": "6.0.0",
