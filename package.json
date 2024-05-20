@@ -58,7 +58,7 @@
     "@babylonjs/materials": "6.0.0",
     "@babylonjs/post-processes": "6.0.0",
     "@babylonjs/procedural-textures": "6.0.0",
-    "@blueprintjs/core": "3.51.3",
+    "@blueprintjs/core": "5.10.3",
     "@blueprintjs/select": "3.18.10",
     "@jniac/color-xplr": "1.0.15",
     "adm-zip": "0.4.14",
